@@ -1,0 +1,5 @@
+server:
+  port: 8081
+info:
+  platform: "校园外卖平台"
+  version: "1.0.0"
