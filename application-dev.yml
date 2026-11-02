@@ -1,4 +1,4 @@
 library:
   environment: dev
-  notice: 开发环境：欢迎使用校园图书借阅系统
-  loan-days: 14
+  notice: "期末公告：借阅期限延长至21天"
+  loan-days: 21
