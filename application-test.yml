@@ -1,0 +1,4 @@
+library:
+  environment: test
+  notice: 测试环境：借阅期限为 7 天
+  loan-days: 7
