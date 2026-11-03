@@ -1,4 +1,4 @@
 library:
   environment: dev
-  notice: "期末公告：借阅期限延长至21天"
-  loan-days: 21
+  notice: "演示公告：借阅期限调整为28天"
+  loan-days: 28
